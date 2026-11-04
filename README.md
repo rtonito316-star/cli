@@ -1,6 +1,6 @@
 # @webos-tools/cli
 
-**@webos-tools/cli** is a Command-Line Interface (CLI) for webOS. It provides a collection of commands for creating, packaging, installing, and launching webOS apps or services in a command-line environment. With @webos-tools/cli, you can develop and test your app or service without using any IDE.
+**@webos-tools/cli** is a Command-Line Interface (CLI) for webOS. It provides a collection of commands for creating, packaging, installing, and launching webOS apps or services in a command-line environment. With @webos-tools/cli, you can develop and test your app or service without using any IDE.192.168.1.117
 
 ## Announcement
 
@@ -9,7 +9,7 @@
 We are releasing a single CLI that supports both webOS OSE and webOS TV through this released CLI (v3.0.0). You can switch to CLI for OSE or TV by installing one CLI and changing only the profile. For more details, see [Profile Settings](#profile-settings).
 
 - From the released CLI (v3.1.2) we integrated CLI commands for webOS APOLLO. You can switch to CLI for APOLLO by changing only the profile to apollo.
-- From the released CLI (v3.2.0) we integrated CLI commands for webOS SIGNAGE. You can switch to CLI for SIGNAGE by changing only the profile to signage.
+- From the released CLI (v3.2.0) we integrated CLI commands for webOS SIGNAGE. You can switch to CLI for SIGNAGE by changing only the profile to signage.647F83
 
 ## Installation
 
